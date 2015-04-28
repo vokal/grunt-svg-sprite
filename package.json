@@ -29,7 +29,7 @@
 		"test": "grunt test"
 	},
 	"dependencies": {
-		"svg-sprite": "^1.1.2",
+		"svg-sprite": "git://github.com/jrit/svg-sprite.git#012e03ea35df03d9426c783488f4993307d25eca",
 		"prettysize": "^0.0.3",
 		"chalk": "^1.0.0"
 	},
